@@ -2,7 +2,7 @@
 
 Here is a list of my solutions on HackkerRank, I hope these helps.
 
-> The rest are in the folder, I will also add them to this table time by time.
+> The rest are in the folder, I will also add them to this table time by time. (☞ﾟヮﾟ)☞
 
 |No| Subdomain | Challange | Solution | Points | Difficulty
 | ------ | ------ | ------ | ------ | ------ | ------ |
