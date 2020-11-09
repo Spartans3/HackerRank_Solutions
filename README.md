@@ -16,16 +16,16 @@ Here is a list of my solutions on HackkerRank, I hope these helps.
 |8| Implementation| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [AppleAndOrange.java](/Problem%20Solving%20(Algorithms)/AppleAndOrange.java) | 10| Easy
 |9| Strings | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [BeautifulBinaryString.java](/Problem%20Solving%20(Algorithms)/BeautifulBinaryString.java) |20 | Easy
 |10| Implementation | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [BeautifulDaysAtTheMovies.java](/Problem%20Solving%20(Algorithms)/BeautifulDaysAtTheMovies.java) | 15 | Easy
-|11| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|12| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|13| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|14| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|15| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|16| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|17| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|18| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|19| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|20| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
+|11| Implementation | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [BeautifulTriplets.java](/Problem%20Solving%20(Algorithms)/BeautifulTriplets.java) |20 | Easy
+|12| Sorting | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [BigSorting.java](/Problem%20Solving%20(Algorithms)/BigSorting.java) | 20 | Easy
+|13| Warmup| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [BirthdayCakeCandles.java](/Problem%20Solving%20(Algorithms)/BirthdayCakeCandles.java) | 10 | Easy
+|14| Implementation| [Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [BirthdayChocolate.java](/Problem%20Solving%20(Algorithms)/BirthdayChocolate.java) | 10 | Easy
+|15| Implementation | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [BonAppétit.java](/Problem%20Solving%20(Algorithms)/BonAppétit.java) | 10 | Easy
+|16| Implementation| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [BreakingTheRecords.java](/Problem%20Solving%20(Algorithms)/BreakingTheRecords.java) | 10 | Easy
+|17| Strings | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [CaesarCipher.java](/Problem%20Solving%20(Algorithms)/CaesarCipher.java) | 15 | Easy
+|18| Strings | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [CamelCase.java](/Problem%20Solving%20(Algorithms)/CamelCase.java) | 15 | Easy
+|19| Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [CatsAndAMouse.java](/Problem%20Solving%20(Algorithms)/CatsAndAMouse.java) | 15 | Easy
+|20| Implementation | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [CavityMap.java](/Problem%20Solving%20(Algorithms)/CavityMap.java) | 30 | Easy
 |21| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |22| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |23| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
