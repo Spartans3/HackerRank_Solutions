@@ -26,32 +26,32 @@ Here is a list of my solutions on HackkerRank, I hope these helps.
 |18| Strings | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [CamelCase.java](/Problem%20Solving%20(Algorithms)/CamelCase.java) | 15 | Easy
 |19| Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [CatsAndAMouse.java](/Problem%20Solving%20(Algorithms)/CatsAndAMouse.java) | 15 | Easy
 |20| Implementation | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [CavityMap.java](/Problem%20Solving%20(Algorithms)/CavityMap.java) | 30 | Easy
-|21| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|22| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|23| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|24| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|25| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|26| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|27| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|28| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|29| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|30| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|31| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|32| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|33| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|34| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|35| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|36| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|37| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|38| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|39| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|40| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|41| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|42| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|43| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|44| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|45| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|46| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
+|21| Implementation | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [ChocolateFeast.java](/Problem%20Solving%20(Algorithms)/ChocolateFeast.java) | 25 | Easy
+|22| Implementation | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [CircularArrayRotation.java](/Problem%20Solving%20(Algorithms)/CircularArrayRotation.java) | 20 | Easy
+|23| Sorting | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [ClosestNumbers.java](/Problem%20Solving%20(Algorithms)/ClosestNumbers.java) | 35 | Easy
+|24| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [ComparetheTriplets.java](/Problem%20Solving%20(Algorithms)/ComparetheTriplets.java) | 10 | Easy
+|25| Sorting | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem) | [CorrectnessAndTheLoopInvariant.java](/Problem%20Solving%20(Algorithms)/CorrectnessAndTheLoopInvariant.java) | 30 | Easy
+|26| Bit Manipulation | [Counter game](https://www.hackerrank.com/challenges/counter-game/problem) | [CounterGame.java](/Problem%20Solving%20(Algorithms)/CounterGame.java) | 30 | Medium
+|27| Sorting | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [CountingSort1.java](/Problem%20Solving%20(Algorithms)/CountingSort1.java) | 30 | Easy
+|28| Sorting | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | [CountingSort2.java](/Problem%20Solving%20(Algorithms)/CountingSort2.java) | 30 | Easy
+|29| Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [CountingValleys.java](/Problem%20Solving%20(Algorithms)/CountingValleys.java) | 15 | Easy
+|30| Implementation | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [CutTheSticks.java](/Problem%20Solving%20(Algorithms)/CutTheSticks.java) | 25 | Easy
+|31| Implementation | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [DayoftheProgrammer.java](/Problem%20Solving%20(Algorithms)/DayoftheProgrammer.java) | 15 | Easy
+|32| Implementation | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [DesignerPDFViewer.java](/Problem%20Solving%20(Algorithms)/DesignerPDFViewer.java) | 20 | Easy
+|33| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [DiagonalDifference.java](/Problem%20Solving%20(Algorithms)/DiagonalDifference.java) | 10 | Easy
+|34| Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [DivisibleSumPairs.java](/Problem%20Solving%20(Algorithms)/DivisibleSumPairs.java) | 10 | Easy
+|35| Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [DrawingBook.java](/Problem%20Solving%20(Algorithms)/DrawingBook.java) | 10 | Easy
+|36| Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [ElectronicsShop.java](/Problem%20Solving%20(Algorithms)/ElectronicsShop.java) | 15 | Easy
+|37| Implementation | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Encryption.java](/Problem%20Solving%20(Algorithms)/Encryption.java) | 30 | Medium
+|38| Implementation | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [EqualizeTheArray.java](/Problem%20Solving%20(Algorithms)/EqualizeTheArray.java) |20 | Easy
+|39| Implementation | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [ExtraLongFactorials.java](/Problem%20Solving%20(Algorithms)/ExtraLongFactorials.java) | 20 | Medium
+|40| Implementation | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [FairRations.java](/Problem%20Solving%20(Algorithms)/FairRations.java) | 20 | Easy
+|41| Dynamic Programming | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [FibonacciModified.java](/Problem%20Solving%20(Algorithms)/FibonacciModified.java) | 45 | Medium
+|42| Implementation | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [FindDigits.java](/Problem%20Solving%20(Algorithms)/FindDigits.java) | 25 | Easy
+|43| Sorting | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [FindTheMedian.java](/Problem%20Solving%20(Algorithms)/FindTheMedian.java) | 35 | Easy
+|44| Implementation | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [FlatlandSpaceStations.java](/Problem%20Solving%20(Algorithms)/FlatlandSpaceStations.java) | 25 | Easy
+|45| Bit Manipulation | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.java](/Problem%20Solving%20(Algorithms)/FlippingBits.java) | 40 | Easy
+|46| Strings | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [FunnyString.java](/Problem%20Solving%20(Algorithms)/FunnyString.java) | 25 | Easy
 |47| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |48| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |49| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
