@@ -52,25 +52,25 @@ Here is a list of my solutions on HackkerRank, I hope these helps.
 |44| Implementation | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [FlatlandSpaceStations.java](/Problem%20Solving%20(Algorithms)/FlatlandSpaceStations.java) | 25 | Easy
 |45| Bit Manipulation | [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [FlippingBits.java](/Problem%20Solving%20(Algorithms)/FlippingBits.java) | 40 | Easy
 |46| Strings | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [FunnyString.java](/Problem%20Solving%20(Algorithms)/FunnyString.java) | 25 | Easy
-|47| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|48| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|49| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|50| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|51| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|52| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|53| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|54| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|55| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|56| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|57| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|58| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|59| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|60| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|61| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|62| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|63| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|64| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
-|65| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
+|47| Strings | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [GameOfThronesI.java](/Problem%20Solving%20(Algorithms)/GameOfThronesI.java) | 30 | Easy
+|48| Strings | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | [Gemstones.java](/Problem%20Solving%20(Algorithms)/Gemstones.java) | 20 | Easy
+|49| Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [GradingStudents.java](/Problem%20Solving%20(Algorithms)/GradingStudents.java) | 10 | Easy
+|50| Greedy | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem) | [GreedyFlorist.java](/Problem%20Solving%20(Algorithms)/GreedyFlorist.java) | 35 | Medium
+|51| Strings | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [HackerRankInAString.java](/Problem%20Solving%20(Algorithms)/HackerRankInAString.java) | 20 | Easy
+|52| Search | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [HackerlandRadioTransmitters.java](/Problem%20Solving%20(Algorithms)/HackerlandRadioTransmitters.java) | 25 | Medium
+|53| Implementation | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem) | [HalloweenSale.java](/Problem%20Solving%20(Algorithms)/HalloweenSale.java) | 20 | Easy
+|54| Implementation | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [HappyLadybugs.java](/Problem%20Solving%20(Algorithms)/HappyLadybugs.java) | 30 | Easy
+|55| Search | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem) | [IceCreamParlor.java](/Problem%20Solving%20(Algorithms)/IceCreamParlor.java) | 30 | Easy
+|56| Sorting | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | [InsertionSortPart1.java](/Problem%20Solving%20(Algorithms)/InsertionSortPart1.java) | 30 | Easy
+|57| Sorting | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | [InsertionSortPart2.java](/Problem%20Solving%20(Algorithms)/InsertionSortPart2.java) | 30 | Easy
+|58| Sorting | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [IntroToTutorialChallenges.java](/Problem%20Solving%20(Algorithms)/IntroToTutorialChallenges.java) | 30 | Easy
+|59| Implementation | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [JumpingOnTheClouds.java](/Problem%20Solving%20(Algorithms)/JumpingOnTheClouds.java) | 20 | Easy
+|60| Implementation | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [JumpingOnTheCloudsRevisited.java](/Problem%20Solving%20(Algorithms)/JumpingOnTheCloudsRevisited.java) | 15| Easy
+|61| Implementation | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Kangaroo.java](/Problem%20Solving%20(Algorithms)/Kangaroo.java) | 10 | Easy
+|62| Implementation | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [LibraryFine.java](/Problem%20Solving%20(Algorithms)/LibraryFine.java) | 15 | Easy
+|63| Implementation | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [LisasWorkbook.java](/Problem%20Solving%20(Algorithms)/LisasWorkbook.java) | 25 | Easy
+|64| Bit Manipulation | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem) | [LonelyInteger.java](/Problem%20Solving%20(Algorithms)/LonelyInteger.java) | 20 | Easy
+|65| Greedy | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) | [LuckBalance.java](/Problem%20Solving%20(Algorithms)/LuckBalance.java) | 20 | Easy
 |66| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |67| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
 |68| | []() | [](/Problem%20Solving%20(Algorithms)/) | |
